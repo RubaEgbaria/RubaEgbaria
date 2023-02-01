@@ -1,6 +1,6 @@
 About Me:<br>
-I'm a recent college graduate with five months experience as a front-end developer. <br>
-In the current time I am full-stack developer trainee.<br>
+Recent graduate in computer sciences, with five months internship experience as a front-end developer. <br>
+Developed Machine Learning system to solve business failure problem. I'm quite passionate to gain more experience and solve more challenges. .<br>
 
 
 ## 🌐 Socials:
