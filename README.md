@@ -1,6 +1,5 @@
-<h2>About Me:</h2><br>
-<h4>
-Recent graduate in computer sciences, with five months internship experience as a front-end developer. Developed Machine Learning system to solve business failure problem. I'm quite passionate to gain more experience and solve more challenges. .<br>
+<h2>About Me:</h2>
+<h4>Recent graduate in computer sciences, with five months internship experience as a front-end developer. Developed Machine Learning system to solve business failure problem. I'm quite passionate to gain more experience and solve more challenges. .<br>
 </h4>
 <br>
 ## 🌐 Socials:
